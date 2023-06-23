@@ -1,5 +1,5 @@
 # OPENCV_TEXTURE_SEGMENTATION
-
+Implementation of image processing kernels in C++ with OpenCV library for segmenting object from texture background.
 ![image](https://github.com/tudi72/OPENCV_TEXTURE_SEGMENTATION/assets/33194623/cd468bad-7316-48b4-b026-af186b5ba6f9)
 ![image](https://github.com/tudi72/OPENCV_TEXTURE_SEGMENTATION/assets/33194623/88914130-493f-4066-bfea-1ddc5a01a311)
 ![image](https://github.com/tudi72/OPENCV_TEXTURE_SEGMENTATION/assets/33194623/05abace7-f538-455d-b51d-3a7ade265095)
